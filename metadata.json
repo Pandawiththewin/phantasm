@@ -1,0 +1,5 @@
+{
+  "name": "Phantasm: Ghost Syllabus",
+  "description": "A study guide generator that transforms scraped course discussions into a strategic 'Ghost Syllabus' using Gemini.",
+  "requestFramePermissions": []
+}
